@@ -7,12 +7,4 @@ import {PassengerI} from './passenger';
   styleUrls:['app.component.css']
 })
 export class AppComponent {
-
- passengers: PassengerI[] = [{
-
- }
-   
- ]
- 
- 
-  }
+}
